@@ -4,8 +4,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - AI-enabled communications
-  - Green and energy-efficient communications
-  - Online optimization & game theory and machine learning for communications
+  - Green / energy-efficient communications
+  - Online optimization and game theory and machine learning for communications
   - Security aspects in wireless communications and smart grids
 social:
   - icon: graduation-cap
