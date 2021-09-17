@@ -5,14 +5,8 @@ bio: ""
 interests:
   - AI-enabled communications
   - Green and energy-efficient communications
-  - Online optimization\
-  - games and learning for communications
+  - Online optimization & game theory and machine learning for communications
   - Security aspects in wireless communications and smart grids
-  - IoT networks
-  - MIMO wireless networks
-  - mmWave
-  - cognitive radio
-  - opportunistic spectrum access
 social:
   - icon: graduation-cap
     icon_pack: fas
