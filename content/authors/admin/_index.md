@@ -29,7 +29,7 @@ organizations:
     url: https://www.etis-lab.fr
 education:
   courses:
-    - course: HDR - Habilitation to direct research
+    - course: HDR (Habilitation to direct research)
       institution: University of Cergy-Pontoise, France
       year: 2019
     - course: PHD in telecommunications
