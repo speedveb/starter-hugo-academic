@@ -1,6 +1,6 @@
 ---
 role: "Associate Professor (Maître de Conférences, HDR) "
-avatar_filename: ""
+avatar_filename: self_portrait_by_speedveb_d9cqji9-fullview-2.jpg
 bio: ""
 interests:
   - AI-enabled communications
