@@ -28,7 +28,19 @@ organizations:
   - name: ETIS laboratory
     url: https://www.etis-lab.fr
 education:
-  courses: []
+  courses:
+    - course: HDR - Habilitation to direct research
+      institution: University of Cergy-Pontoise, France
+      year: 2019
+    - course: PHD in telecommunications
+      institution: University Paris-Sud XI, Orsay, France
+      year: 2010
+    - course: MSc (M2R)
+      institution: University Paris-Sud XI, Orsay, France
+      year: 2007
+    - course: MEng
+      institution: University Politehnica of Bucharest
+      year: 2007
 superuser: true
 highlight_name: true
 title: E. Veronica Belmega
