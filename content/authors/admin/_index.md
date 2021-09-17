@@ -23,6 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://www.deviantart.com/speedveb
+    icon: fly
+    icon_pack: fab
 organizations:
   - name: ENSEA
     url: https://www.ensea.fr/en
@@ -35,7 +40,7 @@ highlight_name: true
 title: E. Veronica Belmega
 email: ""
 ---
-E. Veronica Belmega (IEEE S'08, M'10, SM'20) has been an Associate Professor *(maître de conférences, HDR in 2019)* with ENSEA graduate school since Sep. 2011, and the deputy director of ETIS laboratory  since Jan. 2020, Cergy, France.
+E. Veronica Belmega (IEEE S'08, M'10, SM'20) has been an Associate Professor *(Maître de Conférences, HDR in 2019)* with ENSEA graduate school since Sep. 2011, and Deputy Director of ETIS laboratory  since Jan. 2020, Cergy, France.
 
 She received the Engineer Degree (M.Sc.) from the University Politehnica of Bucharest, Romania, in 2007. In 2005-2006, she studied applied mathematics at Ecole Polytechnique, Palaiseau, France within the International Socrates/Erasmus Exchange Program.  She obtained the M.Sc. and Ph.D. from the Université Paris-Sud 11, France, in 2007 and 2010.  In 2010-2011, she  was a post-doctoral researcher in a joint project between Princeton University, USA and Supélec, France. She was a visiting researcher *(délégation complete)* at Inria, Grenoble, between Sep. 2015 - Aug. 2017.  She received her HDR habilitation degree from the Université de Cergy-Pontoise, France in 2019.
 
