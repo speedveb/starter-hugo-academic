@@ -1,5 +1,6 @@
 ---
-role: "Associate Professor (Maître de Conférences, HDR) "
+role: Associate Professor (Maître de Conférences, HDR) {{\\}}  Deputy Director
+  of ETIS laboratory
 avatar_filename: avatar.jpg
 bio: ""
 interests:
