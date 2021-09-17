@@ -46,4 +46,4 @@ She received the Engineer Degree (M.Sc.) from the University Politehnica of Buch
 
 In 2009, she received the L’Oréal – UNESCO – French Academy of Science national fellowship: *"For young women doctoral candidates in science".* Since 2018, she is the recipient of the *Doctoral Supervision and Research Bonus* (PEDR) by the French National Council of Universities (CNU 61). During 2016-2020, she served as Executive Editor of the Transactions on *Emerging Telecommunications Technologies* (ETT); distinguished among the Top Editors 2016-2017. She is a Senior Member IEEE since Feb. 2020. She is the recipient of the 2021 CY Alliance award: *"For women and science"*. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}short CV{{< /staticref >}} or {{< staticref "uploads/demo_resume.pdf" "newtab" >}}long CV{{< /staticref >}}
