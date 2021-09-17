@@ -38,8 +38,8 @@ education:
     - course: MSc (M2R)
       institution: University Paris-Sud XI, Orsay, France
       year: 2007
-    - course: MEng
-      institution: University Politehnica of Bucharest
+    - course: MEng (Engineer Degree)
+      institution: University Politehnica of Bucharest, Romania
       year: 2007
 superuser: true
 highlight_name: true
